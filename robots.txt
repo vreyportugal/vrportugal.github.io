@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vrportugal.github.io/sitemap.xml
+Sitemap: https://vreyportugal.github.io/alt//sitemap.xml
